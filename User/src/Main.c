@@ -36,8 +36,6 @@
 #include "c_language_regular.h"
 
 
-
-
 extern uint8_t g_WriteData[0x100];
 
 uint32_t ulFlashIdVal = 0;
